@@ -13,5 +13,5 @@ spring:
   sleuth:
     sampler:
       probability: 1
-env: master2017
+env: master2018
 branch: test
