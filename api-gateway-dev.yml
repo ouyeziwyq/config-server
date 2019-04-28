@@ -13,5 +13,5 @@ zuul:
     order-service: /apigateway/order/**
     product-service: /apigateway/product/**
   #ignored-services: product-service
-env: master2020
+env: master2021
 branch: test
