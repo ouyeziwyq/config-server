@@ -47,3 +47,5 @@ management:
     web:
       exposure:
         include: "*"
+env: master2020
+branch: test
