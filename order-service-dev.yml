@@ -47,5 +47,5 @@ management:
     web:
       exposure:
         include: "*"
-env: master2001
+env: master2002
 branch: test
